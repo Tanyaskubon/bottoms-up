@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS beer;
+
+
+CREATE DATABASE beer;
+USE beer;
